@@ -31,3 +31,6 @@ button{
 footer{
     text-align: center;
 }
+a{
+    overflow: hidden;
+}
